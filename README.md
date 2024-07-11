@@ -1,7 +1,7 @@
 # Assignment-8
 
 
-```markdown
+
 # Azure Infrastructure Management
 
 This guide provides detailed, step-by-step instructions on how to complete the tasks listed in the Azure infra section of the DevOps001 course.
@@ -72,7 +72,6 @@ This guide provides detailed, step-by-step instructions on how to complete the t
 - [Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/azure-administrator-monitor-backup-resources/)
 - [YouTube Video](https://www.youtube.com/watch?v=DQywse_j8l8)
 - [Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/azure-administrator-monitor-backup-resources/)
-
 
 ## Conclusion
 
