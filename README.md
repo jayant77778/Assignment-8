@@ -2,10 +2,6 @@
 
 
 
-# Azure Infrastructure Management
-
-This guide provides detailed, step-by-step instructions on how to complete the tasks listed in the Azure infra section of the DevOps001 course.
-
 ## 1. Schedule a Daily Backup of VM at 3:00 AM using Vault
 
 ### Resources
